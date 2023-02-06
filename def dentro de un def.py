@@ -7,3 +7,5 @@ def funciondelista(funcion, lista):
 
 def suma(i):
     return i + 1
+
+print(funciondelista(suma, [1,2,3,4,5,6]))
